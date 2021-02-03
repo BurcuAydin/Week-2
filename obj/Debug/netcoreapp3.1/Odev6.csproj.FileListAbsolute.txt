@@ -1,0 +1,13 @@
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.exe
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.deps.json
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.runtimeconfig.json
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.runtimeconfig.dev.json
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.dll
+C:\Users\burcu\source\repos\KampIntro\Odev6\bin\Debug\netcoreapp3.1\Odev6.pdb
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.csprojAssemblyReference.cache
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.AssemblyInfoInputs.cache
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.AssemblyInfo.cs
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.csproj.CoreCompileInputs.cache
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.dll
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.pdb
+C:\Users\burcu\source\repos\KampIntro\Odev6\obj\Debug\netcoreapp3.1\Odev6.genruntimeconfig.cache
